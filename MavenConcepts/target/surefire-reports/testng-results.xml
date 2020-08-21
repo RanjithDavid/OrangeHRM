@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="110740" started-at="2020-08-21T08:31:44Z" finished-at="2020-08-21T08:33:35Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="110740" started-at="2020-08-21T08:31:44Z" finished-at="2020-08-21T08:33:35Z">
+      <class name="orangeHRMTest.LoginTestClass">
+        <test-method status="PASS" signature="setup()[pri:0, instance:orangeHRMTest.LoginTestClass@2cb4c3ab]" name="setup" is-config="true" duration-ms="85088" started-at="2020-08-21T14:01:44Z" finished-at="2020-08-21T14:03:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LoginTest()[pri:0, instance:orangeHRMTest.LoginTestClass@2cb4c3ab]" name="LoginTest" duration-ms="20003" started-at="2020-08-21T14:03:09Z" finished-at="2020-08-21T14:03:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:orangeHRMTest.LoginTestClass@2cb4c3ab]" name="teardown" is-config="true" duration-ms="5389" started-at="2020-08-21T14:03:29Z" finished-at="2020-08-21T14:03:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- orangeHRMTest.LoginTestClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
